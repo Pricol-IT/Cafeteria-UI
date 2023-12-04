@@ -11,3 +11,10 @@ section {
 .loginCard {
   width: 400px;
 }
+
+.image {
+  position: relative;
+  margin-top: -33px;
+  margin-left: -33px;
+  border-radius: 50%;
+}
